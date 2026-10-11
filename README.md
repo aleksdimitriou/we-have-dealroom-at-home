@@ -35,7 +35,9 @@ LinkedIn and X pages are never opened, robots.txt is honoured, contact-data brok
 
 ## Status
 
-The CRM export is built for Attio’s CSV import; the import itself is not tested yet.
+Cost. About $0.24-0.34 per company, roughly half for the model and half for search. The model is swappable; a cheaper one cuts the model’s share, but its output needs re-checking, and a fund should check where a provider processes founders’ data.
+
+Next step: testing the CRM import (Attio), so a batch lands in a fund’s pipeline as ready-made records.
 
 ## Running it
 
