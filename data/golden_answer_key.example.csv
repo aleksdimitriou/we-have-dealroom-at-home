@@ -1,0 +1,4 @@
+company_name,subject (founder name or 'company'),claim_type,found,value (exactly as written),source_url,source_origin,linkedin_only
+Example Robotics,Jane Doe,role,Yes,Co-Founder & CEO of Example Robotics,https://www.example-robotics.com/team,company,No
+Example Robotics,Jane Doe,education,Yes,"PhD, Example University",https://www.example.com/jane-doe,founder,Yes
+Example Robotics,company,company_description,Yes,Example Robotics builds welding robots.,https://www.example-robotics.com/,company,No

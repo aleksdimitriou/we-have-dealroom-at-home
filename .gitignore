@@ -1,0 +1,9 @@
+runs/
+golden/
+.env
+__pycache__/
+.venv/
+.DS_Store
+exports/
+notes/
+inputs/

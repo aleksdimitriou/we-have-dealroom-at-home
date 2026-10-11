@@ -1,0 +1,3 @@
+company_name,company_url,accelerator_profile_url,founder_names (separate with ;),batch
+Example Robotics,https://www.example-robotics.com,https://www.ycombinator.com/companies/example-robotics,Jane Doe; John Roe (Johnny),YC Summer 2026
+Example Foods,https://www.example-foods.com,"https://www.antler.co/portfolio (filters: Sector = Industrials, Year = 2026; no per-company page)",Jane Doe (registered as Janet Doe),Antler (portfolio year filter 2026)
